@@ -1,2 +1,2 @@
 # Passwordgenerator
-find the depolyment at this https://passwordgenerator-mu-jet.vercel.app/
+find the depolyment at this https://passwordgenerator-gules-eight.vercel.app/
